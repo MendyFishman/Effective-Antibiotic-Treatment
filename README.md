@@ -16,3 +16,6 @@ This repository contains an Insight Maker model (The links are attached below) t
 1. Optimization of Infusion Treatment -  https://insightmaker.com/insight/Ae7zFdXgeJoTzQFtFwmg6/Optimization-of-Antimicrobial-Model
 2. Mixed Model, Optimal Treatment and Free Treatment - https://insightmaker.com/insight/xCXs8YUFpESyrO4XebHw3/mixed-Model-of-Antimicrobial
 3. Pulses Model - https://insightmaker.com/insight/7tjXvI2icMrpa7rbM7l6ad/Antimicrobial-Model-pulses
+
+## Additional Documentation:
+For the mathematical theory behind the model , please refer to the pdf file (Effective Antibiotic Treatment (Hebrew).pdf).
